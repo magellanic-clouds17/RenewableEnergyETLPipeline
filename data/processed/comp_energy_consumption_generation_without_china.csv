@@ -1,4 +1,4 @@
-Country,Hydro(TWh),Biofuel(TWh),Solar PV (TWh),Geothermal (TWh),Total_Renwable_Generation_TWh,Total_Consumption_TWh
+Country,Hydro(TWh),Biofuel(TWh),Solar PV (TWh),Geothermal (TWh),Total_Renewable_Generation_TWh,Total_Consumption_TWh
 Brazil,370.9,42.37,52.25,0.0,466.35,286.0
 Canada,383.48,29.65,7.12,0.0,424.09,281.0
 India,141.8,51.06,43.76,0.0,262.65,908.0

@@ -1,0 +1,11 @@
+name: energy_etl_pipeline
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - sqlalchemy
