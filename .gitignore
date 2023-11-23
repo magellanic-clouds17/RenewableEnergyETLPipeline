@@ -1,6 +1,6 @@
 #own
-/data/processed/transform_load
-/data/interim/data_exploration
+data/processed/transform_load.py
+data/interim/data_exploration.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
