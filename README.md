@@ -1,0 +1,1 @@
+It's important to ensure that there's nothing sensitive or confidential in your repository before making it public. This includes things like passwords, API keys, and personal information
