@@ -5,7 +5,7 @@
 - Also used this project to understand how to properly version control with git and GitHub within VS Code.
 ## Visualizations
 
-![](reports/figures/comp_gen_con.png)
+![[(reports/figures/comp_gen_con.png)]]
 
 
 
